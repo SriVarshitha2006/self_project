@@ -1,5 +1,6 @@
 # self_project
-Project Name : Image classification(115)
+Project Name : spam mail detection 
+and part of image classification
 
 GOAL : Creating a best model for image classification by all the learnings made
 
