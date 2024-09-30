@@ -1,5 +1,7 @@
 # self_project
-Project Name : spam mail detection 
+Project Name : spam mail detection - check email_classification.ipynb and mail.csv
+
+
 and part of image classification
 
 GOAL : Creating a best model for image classification by all the learnings made
